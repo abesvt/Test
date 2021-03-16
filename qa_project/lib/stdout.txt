@@ -1,0 +1,4 @@
+My hostname is: DESKTOP-VQHL5T5
+working as target
+outputfile events.log
+App listening on port 9998
